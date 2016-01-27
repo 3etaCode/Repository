@@ -1,8 +1,6 @@
-# Repository
-este es un primer repositorio de prueba
-este es el redame de este repositorio 
+# Pruebas de Git Rpositorios
+es el README de este repositorio :/  
 
-por q lo lees...
+por q lo lees ? ...?
 
-
-aun no e echo nada 
+aun no e echo nada  ¬¬  
