@@ -1,5 +1,5 @@
-# Pruebas de Git - Rpositorios
-es el README de este repositorio :/  
+# Pruebas de Git - Repositorios
+ Es el README de este repositorio :/  
 
 por q lo lees ? ...?
 
